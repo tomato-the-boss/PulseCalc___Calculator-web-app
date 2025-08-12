@@ -1,5 +1,5 @@
 # PulseCalc | Calculator web app
-**PulseCalc** — A modern, responsive calculator web application with full keyboard support, PEMDAS-compliant expression evaluation, and intelligent input handling. Featuring a dark, sleek interface with smooth animations, it supports basic and advanced operations, real-time display updates, and error handling, all built with clean, efficient vanilla JavaScript
+**PulseCalc** — A modern, responsive calculator web application with full keyboard support, PEMDAS-compliant expression evaluation, and intelligent input handling. Featuring a dark, sleek interface with smooth animations, it supports basic and advanced operations, real-time display updates, and error handling, all built with clean, efficient vanilla JavaScript following OOP Principles.
 
 ---
 
@@ -41,7 +41,7 @@ No external JS frameworks for optimal performance
 
 ## 👀 Website Preview
 <a href="https://ahmed-maher77.github.io/PulseCalc___Calculator-web-app/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/b61f5a86-4de6-48e5-a298-85b13dbb6640" alt="website preview - UI Mockup" width="400">
 </a>
 
 <hr/>
