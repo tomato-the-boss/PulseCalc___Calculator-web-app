@@ -1,5 +1,5 @@
 # PulseCalc | Calculator web app
-**PulseCalc** — A modern, responsive calculator web application with full keyboard support, PEMDAS-compliant expression evaluation, and intelligent input handling. Featuring a dark, sleek interface with smooth animations, it supports basic and advanced operations, real-time display updates, and error handling, all built with clean, efficient vanilla JavaScript
+**PulseCalc** — A modern, responsive calculator web application with full keyboard support, PEMDAS-compliant expression evaluation, and intelligent input handling. Featuring a dark, sleek interface with smooth animations, it supports basic and advanced operations, real-time display updates, and error handling, all built with clean, efficient vanilla JavaScript following OOP Principles.
 
 ---
 
